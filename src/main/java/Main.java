@@ -19,7 +19,6 @@ public class Main {
         //Input
         Scanner input = new Scanner(System.in);
         int guess = input.nextInt();
-        System.out.println(numToGuess);
 
         while (!guessRight) {
 
